@@ -1,4 +1,4 @@
-  #FashionStar CAN总线舵机SDK使用说明
+  # FashionStar CAN总线舵机SDK使用说明
 
   本文档介绍了`fashionstar_CANservo.py`SDK文件的使用方法，该驱动用于控制FashionStar系列CAN总线舵机。
 
